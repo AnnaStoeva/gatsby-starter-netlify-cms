@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: testt
   description: tsetstsett
+pages:
+- test-file1.md
